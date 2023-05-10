@@ -39,6 +39,6 @@
 - [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Follow Me
-[![Header](Вконтакте)](https://vk.com/id36271620)
+[Вконтакте](https://vk.com/id36271620)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=artichokeee&show_icons=true&theme=radical)

@@ -32,11 +32,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/artichokeee/checklist)
-- [Test-Suites and Test-Cases](https://github.com/artichokeee/test-cases)
-- [Bug-Reports](https://github.com/artichokeee/bug-reports)
-- [SQL Queries](https://github.com/artichokeee/SQL)
-- [Postman Collections](https://github.com/artichokeee/postman)
+- [Чарльз](https://vk.com/away.php?to=https%3A%2F%2Fwww.charlesproxy.com%2Fdocumentation%2Fusing-charles%2Fssl-certificates%2F&cc_key=)
 
 ### Follow Me
 [Вконтакте](https://vk.com/id36271620)
